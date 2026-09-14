@@ -3,7 +3,7 @@
 <h3 align="center">AI/ML Engineer | Machine Learning & Data Analytics | Python | SQL | Deep Learning | Computer Vision</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/gilna-pradeep-3785852a">
+  <a href="[https://linkedin.com/in/gilna-pradeep-3785852a](https://www.linkedin.com/in/gilna-pradeep-3785852a4/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/gilnapradeep">
