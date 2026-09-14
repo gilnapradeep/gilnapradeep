@@ -82,32 +82,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 📈 Consumer Demand Forecasting & Promotion Analytics
-
-Machine learning project for analyzing consumer demand, identifying important sales patterns, and forecasting future demand.
-
-**Tech:** Python • Pandas • Scikit-learn • XGBoost • Time Series • Streamlit
-
----
-
-### 📝 Consumer Review Intelligence System
-
-An AI-powered system for analyzing customer reviews, extracting sentiment, identifying important topics, and generating actionable insights.
-
-**Tech:** Python • NLP • Machine Learning • Deep Learning • Streamlit
-
----
-
-### 👁️ Smart Vision-Based Activity & Safety Monitoring
-
-A computer vision system that detects people, activities, and potentially risky situations using object detection, pose analysis, and rule-based event detection.
-
-**Tech:** Python • OpenCV • YOLO • PyTorch • Computer Vision
-
----
-
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=gilnapradeep&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
