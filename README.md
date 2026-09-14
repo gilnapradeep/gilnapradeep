@@ -2,20 +2,7 @@
 
 <h3 align="center">AI/ML Engineer | Machine Learning & Data Analytics | Python | SQL | Deep Learning | Computer Vision</h3>
 
-<p align="center">
-  <a href="[https://linkedin.com/in/gilna-pradeep-3785852a](https://www.linkedin.com/in/gilna-pradeep-3785852a4/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/gilnapradeep">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@gilnapradeep2003">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  <a href="https://x.com/Gilna_Pradeep">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-</p>
+<p align="center"> <a href="https://www.linkedin.com/in/gilna-pradeep-3785852a4/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/gilnapradeep"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://medium.com/@gilnapradeep2003"> <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/> </a> <a href="https://x.com/Gilna_Pradeep"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/> </a> </p>
 
 ---
 
